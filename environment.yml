@@ -6,7 +6,6 @@ dependencies:
 - sra-tools=2.8
 - snakemake-minimal=5.3.0
 - multiqc=1.2
-
 - bowtie2=2.1
 - samtools=1.6
 - htseq=0.9
